@@ -1,5 +1,6 @@
 newline
-oldline
+secondline
+fithline
 <<<<<<< HEAD
 
 thirdline
@@ -7,3 +8,4 @@ thirdline
 thirdline:wq
 fouth
 >>>>>>> dev
+
