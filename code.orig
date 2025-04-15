@@ -1,0 +1,15 @@
+newline
+secondline
+fithline
+<<<<<<< HEAD
+
+thirdline
+=======
+thirdline:wq
+fouth
+<<<<<<< HEAD
+>>>>>>> dev
+
+=======
+six
+>>>>>>> dev
