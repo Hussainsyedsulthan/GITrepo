@@ -1,4 +1,9 @@
 newline
 oldline
+<<<<<<< HEAD
 
 thirdline
+=======
+thirdline:wq
+fouth
+>>>>>>> dev
